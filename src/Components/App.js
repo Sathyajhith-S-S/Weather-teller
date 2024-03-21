@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import WeatherCard from './WeatherCard'; // Importing the WeatherCard component
+import WeatherCard from './WeatherCard'; // Importing the WeatherCard compo
 import ForecastCard from './ForecastCard'; // Importing the ForecastCard component
 
 const App = () => {
