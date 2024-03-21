@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Weather-teller/static/css/main.bd2d1c2a.css",
+    "main.js": "/Weather-teller/static/js/main.e66c40dc.js",
+    "static/js/787.a4b45000.chunk.js": "/Weather-teller/static/js/787.a4b45000.chunk.js",
+    "index.html": "/Weather-teller/index.html",
+    "main.bd2d1c2a.css.map": "/Weather-teller/static/css/main.bd2d1c2a.css.map",
+    "main.e66c40dc.js.map": "/Weather-teller/static/js/main.e66c40dc.js.map",
+    "787.a4b45000.chunk.js.map": "/Weather-teller/static/js/787.a4b45000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd2d1c2a.css",
+    "static/js/main.e66c40dc.js"
+  ]
+}
